@@ -1,0 +1,10 @@
+x=4
+y=2
+print(x)
+print(y)
+print(x+y)
+print(x-y)
+print(x*y)
+print(x%y)
+print(x/y)
+print(x^y)
